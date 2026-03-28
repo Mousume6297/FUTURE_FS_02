@@ -40,34 +40,6 @@ src/
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/clienthub-crm.git
-```
-
-2. Navigate to project folder
-
-```bash
-cd clienthub-crm
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run the project
-
-```bash
-npm start
-```
-
----
-
 ## 👤 User Roles
 
 | Role    | Permissions          |
